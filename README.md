@@ -1,2 +1,2 @@
-# -Restaurant
+# Restaurant
  Restaurant Description
